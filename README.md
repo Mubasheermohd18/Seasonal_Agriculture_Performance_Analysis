@@ -1,4 +1,3 @@
-# Seasonal_Agriculture_Performance_Analysis
 <div align="center">
 
 # Seasonal Agriculture Performance Analysis
